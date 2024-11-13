@@ -13,7 +13,7 @@
   <body>
 
     <header>
-      <div class="container">
+      <div class="container-header">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
@@ -34,5 +34,20 @@
         {{ content }}
       </section>
     </div>
+
+    <footer>
+      <div class="row">
+        <div class="up_logo">
+          <img src="assets/images/up_logo.png" alt="up_logo" style="width:100%">
+        </div>
+        <div class="pasqal_logo">
+          <img src="assets/images/pasqal_logo.png" alt="pasqal_logo" style="width:100%">
+        </div>
+        <div class="uc_logo">
+          <img src="assets/images/uc_logo.png" alt="uc_logo" style="width:100%">
+        </div>
+      </div> 
+    </footer>
+
   </body>
 </html>
