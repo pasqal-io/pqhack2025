@@ -1,3 +1,3 @@
-# PQH 2025
+# PQHack 2025
 
 Stay tuned
