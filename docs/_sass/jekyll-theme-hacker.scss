@@ -32,26 +32,28 @@ body {
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .up_logo {
   width: 10%;
-  padding-right: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
   flex-direction: column;
 }
 
 .pasqal_logo {
   width: 11%;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 2%;
+  padding-right: 2%;
   flex-direction: column;
 }
 
 .uc_logo {
   width: 12%;
-  padding-left: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
   flex-direction: column;
 }
 
