@@ -26,6 +26,8 @@ To be successful, you will need to collaborate in a team.
     Are you up to the challenge? <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
 </p>
 
+Don't wait too long - there is a limit of 40 participants.
+The registration deadline is **January 15**.
 
 ## When and where?
 
@@ -33,55 +35,39 @@ To be successful, you will need to collaborate in a team.
 
 - This will be an in-person event, hosted at the Department of Physics of the [Faculty of Sciences of the University of Porto](https://www.up.pt/fcup/pt/) (Rua do Campo Alegre 4169-007 Porto).
 
-## Teams
+## Prerequisites and guidelines
 
-You can apply as a team, or just by yourself. 
-The teams are composed of 2-4 people.
-If you apply alone, we will help you form a team, or join you with one of the other teams.
-Everyone will compete as part of a team.
+- We expect you to be familiar with programming in Python.
 
-## What can I win?
+- Basic experience with quantum computing and quantum programming SDKs is not a prerequisite for the registration, but it will be useful to have at the time of the event.
 
-The prize pool for this competition is 1500 EUR.
-The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
+- You will need to bring your own computer to the event.
 
-## Who can join?
+- You will compete in teams of 2 to 4 members.
 
-The event is aimed at university students. You should **at least** be enrolled or have completed a Bachelor's degree in a relevant field (Math, Computer Science, Physics, Engineering) and **should not** have defended PhD degree by January 15 (the closing date for the registration).
-
-## Prerequisites
-
-We expect you to be familiar with programming in Python.
-
-Basic experience with quantum computing and quantum programming SDKs is not a prerequisite for the registration, but it will be useful to have at the time of the event.
-
-(add links)
-
-You will need to bring your own computer to the event.
-
-## How to apply?
-
-<p style="text-align: center; font-size: 20px; font-weight: bold; color: #00c887;">
-    <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
-</p>
-
-Don't wait too long - there is a limit of 40 participants.
-The registration deadline is January 15.
 
 # FAQs
 
-<summary>How do I dropdown?</summary>
+### What can I win?
+
+The prize pool for this competition is 1500 EUR, which will be split between the winners. The exact prizes will be announced later.
+
+The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
+
+### Who can join?
+
+The event is aimed at university students. You should **at least** be enrolled or have completed a Bachelor's degree in a relevant field (Math, Computer Science, Physics, Engineering) and **should not** have defended PhD degree by January 15 (the closing date for the registration).
 
 ### I don't have a team - can I still join?
-Yes! If you don't have a team formed, register alone and we will set you up with some team.
+Yes! If you don't have a team formed, register alone and we will help you form a team or set you up with an existing one.
 
 ### What is the maximum size for a team?
 We only accept teams with up to four people.
 If you have a group larger than that, we suggest you break it up into smaller teams.
 
 ### How long is the event?
-The event begins February 8 at 11:00 and closes at February 9 at 16:30.
-But the challenges will only be available for twenty four hours.
+We expect to begin on February 8 around 11:00 and end on February 9 at 16:30. 
+The hacking period will be a total of twenty four hours, during which you will compete to solve the challenges.
 
 ### Do I need to stay up all night?
 You can, but you don't need to.
@@ -94,14 +80,14 @@ You are free to wonder wherever you want during the competition (including going
 
 ### Where can I sleep?
 You are free to leave the event site and sleep wherever you want (including home).
-But you can also bring your sleeping bag and take a nap during the competition!
+But you can also bring your sleeping bag and take a nap during the competition! There will be a designated area for some quiet time.
 
 ### Can I contest the juri's evaluation?
 No. The juri's decision is final and cannot be contested.
 The awards will be given according to the juri's evaluation.
 
 ### Can I ask for help during the competition?
-The juri will around the event site and reachable online during the competition for any technical support.
+The juri will around the event site and reachable online during the competition for any technical support. Requesting help from other people outside the event is not allowed.
 
 ### Do I need to bring my own food and beverage?
-We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks.
+We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks. Any larger meals should be planned in advance by you and your team.
