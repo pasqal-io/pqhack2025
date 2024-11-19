@@ -11,7 +11,7 @@ layout: default
 
 <p style="text-align:center;">
      <a href="./index.html" class="btn btn-primary btn-size">EN</a>
-     <a href="./PT.html" class="btn btn-primary btn-size">PT</a>
+     <a href="./pt.html" class="btn btn-primary btn-size">PT</a>
 </p>
 
 PORTUGUÊS
