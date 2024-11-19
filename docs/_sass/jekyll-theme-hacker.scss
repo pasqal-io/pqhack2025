@@ -32,29 +32,55 @@ body {
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+
+  @media (max-width: 600px){
+    flex-direction: column;
+  }
 }
 
 .up_logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 10%;
   padding-left: 10%;
   padding-right: 10%;
-  flex-direction: column;
+
+  @media (max-width: 1200px){
+    width: 26%;
+  }
+  @media (max-width: 600px){
+    width: 36%;
+  }
 }
 
 .pasqal_logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 11%;
   padding-left: 2%;
   padding-right: 2%;
-  flex-direction: column;
+
+  @media (max-width: 1200px){
+    width: 28%;
+  }
+  @media (max-width: 600px){
+    width: 38%;
+  }
 }
 
 .uc_logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 12%;
   padding-left: 10%;
   padding-right: 10%;
-  flex-direction: column;
+
+  @media (max-width: 1200px){
+    width: 30%;
+  }
+  @media (max-width: 600px){
+    width: 40%;
+  }
 }
 
 /* General & 'Reset' Stuff */
