@@ -2,26 +2,9 @@
 layout: default
 ---
 
-<style>
-.btn-size-small {
-    font-size: 12px;
-    padding: 12px;
-    color: #00c887;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-}
-
-.btn-size-large {
-    font-size: 20px;
-    color: #00c887;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-}
-</style>
-
 <p style="text-align:center;">
-     <a href="./index.html" class="btn btn-primary btn-size-small">EN</a>
-     <a href="./PT.html" class="btn btn-primary btn-size-small">PT</a>
+     <a href="./pt.html" class="btn">EN <-> PT</a>
 </p>
-<p> </p>
 
 # About
 
@@ -32,25 +15,23 @@ The 2025 edition will be an in-person event on the **8th and 9th of February**, 
 In this innovative event, you will compete to solve set of **quantum computing coding challenges** proposed by our team of experts.
 
 <p style="text-align: center; font-size: 18px; font-weight: bold; color: #00c887;">
-    A total of 1500€ in prizes will be split amongst the best solutions.
+    A total of 1500 EUR in prizes will be split amongst the best solutions.
 </p>
 
 But you have to be quick!
-You will only have **twenty four hours** to delivery your solution.
+You will only have **twenty four hours** to deliver your solution.
 To be successful, you will need to collaborate in a team.
 
 <p style="text-align: center; font-size: 20px; font-weight: bold; color: #00c887;">
-    Are you up to the challenge? <a href="https://www.google.com/" class="btn btn-primary btn-size-large">Apply here!</a>
+    Are you up to the challenge? <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
 </p>
 
 
 ## When and where?
 
-The Hackathon will start February 8 at 11:00, and the closing session will last until February 9 at 16:30.
+- The full event will last from February 8 at 11:00 until February 9 at 16:30. There will be an initial session, a hacking period of 24h, an evaluation period, and a closing session.
 
-The deadline for the registration is January 15.
-
-This will be an in-person event, hosted at the Department of Physics of the [Faculty of Sciences of the University of Porto](https://www.up.pt/fcup/pt/) (Rua do Campo Alegre 4169-007 Porto).
+- This will be an in-person event, hosted at the Department of Physics of the [Faculty of Sciences of the University of Porto](https://www.up.pt/fcup/pt/) (Rua do Campo Alegre 4169-007 Porto).
 
 ## Teams
 
@@ -61,7 +42,7 @@ Everyone will compete as part of a team.
 
 ## What can I win?
 
-The prize pool for this competition is 1500€.
+The prize pool for this competition is 1500 EUR.
 The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
 
 ## Who can join?
@@ -81,7 +62,7 @@ You will need to bring your own computer to the event.
 ## How to apply?
 
 <p style="text-align: center; font-size: 20px; font-weight: bold; color: #00c887;">
-    <a href="https://www.google.com/" class="btn btn-primary btn-size-large">Apply here!</a>
+    <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
 </p>
 
 Don't wait too long - there is a limit of 40 participants.
