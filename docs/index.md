@@ -12,22 +12,10 @@ PQHack is an hackathon aimed at the quantum computing community in Portugal. Whe
 
 The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the [**University of Porto**](https://www.up.pt/portal/en/) in collaboration with [**Pasqal**](https://www.pasqal.com/) and the [**University of Coimbra**](https://www.uc.pt/en/).
 
-In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts.
-
-<div class="highlight">
-    A total of 1500 EUR in prizes will be split amongst the best solutions.
-</div>
-
-But you have to be quick!
-You will only have **twenty four hours** to deliver your solution.
-To be successful, you will need to collaborate in a team.
-
-<div class="highlight">
-    Are you up to the challenge? <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
-</div>
+In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
 
 Don't wait too long - there is a limit of 40 participants.
-The registration deadline is **January 15**.
+The registration deadline is **January 15**. [**Apply now!**]("https://www.google.com/")
 
 ## When and where?
 
@@ -46,6 +34,14 @@ The registration deadline is **January 15**.
 - You will need to bring your own computer to the event.
 
 - You will compete in teams of 2 to 4 members.
+
+<div class="highlight">
+    You can start preparing today!
+</div>
+
+- Register in [Pasqal's Community](https://community.pasqal.com/) page and check out the lessons.
+
+- Check out the [Qadence](https://pasqal-io.github.io/qadence/latest/) SDK for hands-on experience in quantum programs.
 
 <br>
 # FAQs
