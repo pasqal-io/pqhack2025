@@ -44,6 +44,15 @@ The registration deadline is **January 15**. [**Apply now!**]("https://www.googl
 - Check out the [Qadence](https://pasqal-io.github.io/qadence/latest/) SDK for hands-on experience in quantum programming.
 
 <br>
+# Contacts
+
+For any questions, you can email the organizers:
+
+- Duarte Magano -- [duartemagano@fc.up.pt](mailto:duartemagano@fc.up.pt)
+
+- João Moutinho -- [joao.moutinho@pasqal.com](mailto:joao.moutinho@pasqal.com)
+
+<br>
 # FAQs
 
 ### What can I win?
