@@ -59,6 +59,17 @@ body {
   }
 }
 
+.pqhack_logo {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  width: 600px;
+
+  @media (max-width: 600px){
+    padding-bottom: 15px;
+    width: 300px;
+  }
+}
+
 .pasqal_logo {
   padding-top: 20px;
   padding-bottom: 20px;
