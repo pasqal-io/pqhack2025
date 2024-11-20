@@ -8,23 +8,23 @@ layout: default
 
 # About
 
-PQHack is a quantum computing hackathon aimed at the quantum community in Portugal. Whether you are a veteran quantum physicist or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
+PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a veteran quantum physicist or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
-The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the **University of Porto** in collaboration with **Pasqal** and the **University of Coimbra**.
+The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the [**University of Porto**](https://www.up.pt/portal/en/) in collaboration with [**Pasqal**](https://www.pasqal.com/) and the [**University of Coimbra**](https://www.uc.pt/en/).
 
-In this innovative event, you will compete to solve set of **quantum computing coding challenges** proposed by our team of experts.
+In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts.
 
-<p style="text-align: center; font-size: 18px; font-weight: bold; color: #00c887;">
+<div class="highlight">
     A total of 1500 EUR in prizes will be split amongst the best solutions.
-</p>
+</div>
 
 But you have to be quick!
 You will only have **twenty four hours** to deliver your solution.
 To be successful, you will need to collaborate in a team.
 
-<p style="text-align: center; font-size: 20px; font-weight: bold; color: #00c887;">
+<div class="highlight">
     Are you up to the challenge? <a href="https://www.google.com/" class="btn btn-large">Apply here!</a>
-</p>
+</div>
 
 Don't wait too long - there is a limit of 40 participants.
 The registration deadline is **January 15**.
@@ -37,6 +37,8 @@ The registration deadline is **January 15**.
 
 ## Prerequisites and guidelines
 
+- The event is open to students from all universities.
+
 - We expect you to be familiar with programming in Python.
 
 - Basic experience with quantum computing and quantum programming SDKs is not a prerequisite for the registration, but it will be useful to have at the time of the event.
@@ -45,12 +47,12 @@ The registration deadline is **January 15**.
 
 - You will compete in teams of 2 to 4 members.
 
-
+<br>
 # FAQs
 
 ### What can I win?
 
-The prize pool for this competition is 1500 EUR, which will be split between the winners. The exact prizes will be announced later.
+The prize pool for this competition is 1500 EUR, which will be split between the winners.
 
 The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
 
@@ -75,19 +77,21 @@ It's ok if you need to rest for a bit.
 You can also plan shifts with your team mates to make the most out of the time you have.
 
 ### Do I need to stay at the event site for twenty four hours?
-You can spend the entire event at the Department of Physics, but you don't need to.
-You are free to wonder wherever you want during the competition (including going home).
+You can spend the entire event at the Department of Physics, but you don't need to. You are expected to work
+most of the time at the event site, and there will be dedicated rooms where you can work together with your team.
+However, you are free to wonder wherever you want during the competition (including going home).
 
 ### Where can I sleep?
 You are free to leave the event site and sleep wherever you want (including home).
 But you can also bring your sleeping bag and take a nap during the competition! There will be a designated area for some quiet time.
 
+### Do I need to bring my own food and beverage?
+We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks. Any larger meals should be planned in advance by you and your team.
+
+### Can I ask for help during the competition?
+The juri will be around the event site and reachable online during the competition for any technical support. Requesting help from other people outside the event is not allowed and may get you disqualified.
+
 ### Can I contest the juri's evaluation?
 No. The juri's decision is final and cannot be contested.
 The awards will be given according to the juri's evaluation.
-
-### Can I ask for help during the competition?
-The juri will around the event site and reachable online during the competition for any technical support. Requesting help from other people outside the event is not allowed.
-
-### Do I need to bring my own food and beverage?
-We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks. Any larger meals should be planned in advance by you and your team.
+The juri reserves the right to alter or deny the prize in the event of a disqualification.
