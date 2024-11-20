@@ -29,7 +29,7 @@ The registration deadline is **January 15**. [**Apply now!**]("https://www.googl
 
 - We expect you to be familiar with programming in Python.
 
-- Basic experience with quantum computing and quantum programming SDKs is not a prerequisite for the registration, but it will be useful to have at the time of the event.
+- Basic knowledge of quantum computing will be useful (qubits, quantum states, quantum gates, measurements).
 
 - You will need to bring your own computer to the event.
 
@@ -39,18 +39,16 @@ The registration deadline is **January 15**. [**Apply now!**]("https://www.googl
     You can start preparing today!
 </div>
 
-- Register in [Pasqal's Community](https://community.pasqal.com/) page and check out the lessons.
+- Register in [Pasqal's Community](https://community.pasqal.com/) platform and check out the interactive learning module (still in beta phase).
 
-- Check out the [Qadence](https://pasqal-io.github.io/qadence/latest/) SDK for hands-on experience in quantum programs.
+- Check out the [Qadence](https://pasqal-io.github.io/qadence/latest/) SDK for hands-on experience in quantum programming.
 
 <br>
 # FAQs
 
 ### What can I win?
 
-The prize pool for this competition is 1500 EUR, which will be split between the winners.
-
-The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
+The prize pool for this competition is 1500 EUR, which will be split between the winners. The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
 
 ### Who can join?
 
@@ -81,7 +79,7 @@ However, you are free to wonder wherever you want during the competition (includ
 You are free to leave the event site and sleep wherever you want (including home).
 But you can also bring your sleeping bag and take a nap during the competition! There will be a designated area for some quiet time.
 
-### Do I need to bring my own food and beverage?
+### Do I need to bring my own food and beverages?
 We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks. Any larger meals should be planned in advance by you and your team.
 
 ### Can I ask for help during the competition?
