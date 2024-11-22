@@ -327,7 +327,7 @@ td {
 }
 
 hr {
-  height: 0;
+  height: 0;br
   border: 0;
   border-bottom: 1px dashed #b5e853;
   color: $pasqal-mint-green;
@@ -432,6 +432,10 @@ a {
 br {
   display: block;
   margin: 10px 0;
+
+  @media (max-width: 600px){
+    margin: 5px 0;
+  }
 }
 
 
