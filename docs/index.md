@@ -121,7 +121,7 @@ For any questions, you can email the organizers:
 
 <div class="tab">
 <input type="checkbox" name="accordion-1" id="cb7">
-<label for="cb7" class="tab__label">Do I need to stay at the event site for twenty four hours?</label>
+<label for="cb7" class="tab__label">Can I leave the event site?</label>
     <div class="tab__content">
         <p>You can spend the entire event at the Department of Physics, but you don’t need to. You are expected to work most of the time at the event site, and there will be dedicated rooms where you can work together with your team. However, you are free to wonder wherever you want during the competition (including going home).
         </p>
@@ -139,7 +139,7 @@ For any questions, you can email the organizers:
 
 <div class="tab">
 <input type="checkbox" name="accordion-1" id="cb9">
-<label for="cb9" class="tab__label">Do I need to bring my own food and beverages?</label>
+<label for="cb9" class="tab__label">Do I need to bring my own food and drinks?</label>
     <div class="tab__content">
         <p>We will provide drinks (water, coffee, and tea) throughout the event, as well as some snacks. Any larger meals should be planned in advance by you and your team.
         </p>
