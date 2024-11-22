@@ -223,6 +223,6 @@ The juri reserves the right to alter or deny the prize in the event of a disqual
 
 <br>
 <div class="highlight">
-    <a href="https://www.google.com/" target="_blank" class="btn btn-large">What are you waiting for? Apply now, and see you in Porto!</a>
+    <a href="https://www.google.com/" target="_blank" class="btn btn-large">What are you waiting for? Apply now!</a>
 </div>
 <br>
