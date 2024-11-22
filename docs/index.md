@@ -2,15 +2,13 @@
 layout: default
 ---
 
-<p style="text-align:center;">
-     <a href="./pt.html" class="btn">EN <-> PT</a>
-</p>
-
-# About
-
 PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a veteran quantum physicist or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
-The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the [**University of Porto**](https://www.up.pt/portal/en/) in collaboration with [**Pasqal**](https://www.pasqal.com/) and the [**University of Coimbra**](https://www.uc.pt/en/).
+The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the 
+**<a href="https://www.up.pt/portal/en/" target="_blank">University of Porto</a>** 
+in collaboration with 
+**<a href="https://www.pasqal.com/" target="_blank">Pasqal</a>** and the 
+**<a href="https://www.uc.pt/en/" target="_blank">University of Coimbra</a>**.
 
 In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
 
@@ -21,7 +19,11 @@ The registration deadline is **January 15**. [**Apply now!**]("https://www.googl
 
 - The full event will last from February 8 at 11:00 until February 9 at 16:30. There will be an initial session, a hacking period of 24h, an evaluation period, and a closing session.
 
-- This will be an in-person event, hosted at the Department of Physics of the [Faculty of Sciences of the University of Porto](https://www.up.pt/fcup/pt/) (Rua do Campo Alegre 4169-007 Porto).
+- This will be an in-person event, hosted at the Department of Physics of the <a href="https://www.up.pt/fcup/pt/" target="_blank">Faculty of Sciences of the University of Porto</a> (Rua do Campo Alegre 4169-007 Porto).
+
+<div class="google-map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.2089409022246!2d-8.63918422329577!3d41.15179191057472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24650cf885bb99%3A0x4ec79b6823f7fb47!2sFaculdade%20de%20Ci%C3%AAncias%20da%20Universidade%20do%20Porto!5e0!3m2!1sen!2snl!4v1732283184266!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Prerequisites and guidelines
 
@@ -35,15 +37,24 @@ The registration deadline is **January 15**. [**Apply now!**]("https://www.googl
 
 - You will compete in teams of 2 to 4 members.
 
+<br>
 <div class="highlight">
-    You can start preparing today!
+    Join Pasqal's community to get ready!
 </div>
+Do you want to gear up for the challenge? Become a member of the Pasqal Community to get access to:
 
-- Register in [Pasqal's Community](https://community.pasqal.com/) platform and check out the interactive learning module (still in beta phase).
+- Interactive learning modules in the Quantum Quest platform for high-level insights into quantum computing.
 
-- Check out the [Qadence](https://pasqal-io.github.io/qadence/latest/) SDK for hands-on experience in quantum programming.
+- The Qadence software development kit for hands-on experience with quantum programming.
 
 <br>
+<div class="highlight">
+    <a href="https://community.pasqal.com/" target="_blank" class="btn btn-large">Join the Community</a>
+    &nbsp;
+    <a href="https://pasqal-io.github.io/qadence/latest/" target="_blank" class="btn btn-large">Check out Qadence</a>
+</div>
+<br>
+
 # Contacts
 
 For any questions, you can email the organizers:
@@ -98,3 +109,9 @@ The juri will be around the event site and reachable online during the competiti
 No. The juri's decision is final and cannot be contested.
 The awards will be given according to the juri's evaluation.
 The juri reserves the right to alter or deny the prize in the event of a disqualification.
+
+<br>
+<div class="highlight">
+    <a href="https://www.google.com/" target="_blank" class="btn btn-large">What are you waiting for? Apply now, and see you in Porto!</a>
+</div>
+<br>

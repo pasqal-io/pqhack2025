@@ -149,8 +149,12 @@ header {
   background: rgba(0, 0, 0, 0.2);
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
-  padding: 20px 0;
-  margin: 0 0 20px 0;
+  padding: 40px 0;
+  margin: 0 0 40px 0;
+  @media (max-width: 600px){
+    padding: 20px 0;
+    margin: 0 0 20px 0;
+  }
 }
 
 footer {
@@ -334,23 +338,20 @@ hr {
 
 .btn {
   display: inline-block;
-  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
-  padding: 8px 18px;
-  border-radius: 50px;
-  border: 2px solid rgba(0, 0, 0, 0.7);
-  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
-  border-top: 2px solid rgba(0, 0, 0, 1);
-  color: $pasqal-mint-green;
+  background-color: $pasqal-bright-green ;// -webkit-linear-gradient(top, $pasqal-mint-green, $pasqal-bright-green 30%, $pasqal-bright-green 70%, $pasqal-mint-green);
+  padding: 10px 22px;
+  border-radius: 20px;
+  border: 0px solid $pasqal-bright-green;
+  color: $pasqal-soft-green;
   font-weight: bold;
-  font-size: 13px;
+  font-size: 14px;
   text-decoration: none;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
-  
+  text-shadow: none;
+  transition: all 0.1s;
 }
 
 .btn-large{
-  font-size: 20px;
+  font-size: 22px;
 
   @media (max-width: 600px){
     font-size: 14px; 
@@ -358,7 +359,9 @@ hr {
 }
 
 .btn:hover {
-  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
+  box-shadow: 0 0 5px 2px $pasqal-mint-green;
+  color: $pasqal-mint-green;
+  //background: radial-gradient(ellipse at center, $pasqal-bright-green 40%, $pasqal-neon-blue 80%);
 }
 
 .btn .icon {
@@ -379,8 +382,8 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: $pasqal-neon-blue;
+  text-shadow: none;
 }
 
 /* Clearfix */
@@ -400,4 +403,32 @@ a {
 
 #a-title {
   text-decoration: none;
+}
+
+.google-map {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 300px;
+  //position: relative;
+  padding-top: 20px;
+  padding-bottom: 40px;
+
+  @media (max-width: 600px){
+    width: 100%;
+    height: 200px;
+  }
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: relative;
+}
+
+br {
+  display: block;
+  margin: 10px 0;
 }
