@@ -13,7 +13,7 @@ in collaboration with
 In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
 
 Don't wait too long - there is a limit of 40 participants.
-The registration deadline is **January 15**. [**Apply now!**]("https://www.google.com/")
+The registration deadline is **January 15**.
 
 ## When and where?
 
@@ -223,6 +223,6 @@ The juri reserves the right to alter or deny the prize in the event of a disqual
 
 <br>
 <div class="highlight">
-    <a href="https://www.google.com/" target="_blank" class="btn btn-large">What are you waiting for? Apply now!</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfVNrAJ_3ZcU2-JxqTIaXtwJ5am1vkXtV0TA4MGg5Ze-guR-w/viewform?usp=sf_link" target="_blank" class="btn btn-large">What are you waiting for? Apply now!</a>
 </div>
 <br>
