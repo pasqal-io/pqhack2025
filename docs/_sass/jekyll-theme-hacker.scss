@@ -360,8 +360,9 @@ hr {
 }
 
 .btn:hover {
-  box-shadow: 0 0 5px 2px $pasqal-mint-green;
-  color: $pasqal-mint-green;
+  //box-shadow: 0 0 10px 5px $pasqal-dark-green;
+  color: $pasqal-bright-green;
+  background-color: $pasqal-soft-green;
   //background: radial-gradient(ellipse at center, $pasqal-bright-green 40%, $pasqal-neon-blue 80%);
 }
 
