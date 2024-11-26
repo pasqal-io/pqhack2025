@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container-header">
+        <div class="row">
+          <div class="pqhack_logo">
+            <img src="assets/images/logo/logo.png" alt="logo" style="width:100%">
+          </div>
+        </div> 
+        <h2>
+          <div style="font-weight: bold;">
+            {{ site.description | default: site.github.project_tagline }}
+          </div>
+        </h2>
+
+        <h2>
+          <div style="font-weight: bold;">
+            Porto, February 8 - 9, 2025</h2>
+          </div>
+
+        <div class="highlight">
+          A total of 1500 EUR in prizes!
+        </div>
+
+        &nbsp;
+
+        <div class="highlight">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfVNrAJ_3ZcU2-JxqTIaXtwJ5am1vkXtV0TA4MGg5Ze-guR-w/viewform?usp=sf_link" target="_blank" class="btn btn-large">Are you up to the challenge? Apply here!</a>
+        </div>
+      </div>
+      
+      &nbsp;
+
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    <footer>
+      <div class="row">
+        <div class="up_logo">
+          <img src="assets/images/up_logo.png" alt="up_logo" style="width:100%">
+        </div>
+        <div class="pasqal_logo">
+          <img src="assets/images/pasqal_logo.png" alt="pasqal_logo" style="width:100%">
+        </div>
+        <div class="uc_logo">
+          <img src="assets/images/uc_logo.png" alt="uc_logo" style="width:100%">
+        </div>
+      </div> 
+    </footer>
+
+  </body>
+</html>
