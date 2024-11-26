@@ -1,3 +1,3 @@
 # PQHack 2025
 
-Stay tuned
+Check the website at https://pasqal-io.github.io/pqhack2025/
