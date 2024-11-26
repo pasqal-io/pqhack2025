@@ -19,7 +19,7 @@ The registration deadline is **January 15**.
 
 - The full event will last from February 8 at 11:00 until February 9 at 16:30. There will be an initial session, a hacking period of 24h, an evaluation period, and a closing session.
 
-- This will be an in-person event, hosted at the Department of Physics of the <a href="https://www.up.pt/fcup/pt/" target="_blank">Faculty of Sciences of the University of Porto</a> (Rua do Campo Alegre 4169-007 Porto).
+- This will be an in-person event, hosted at the Department of Physics and Astronomy of the <a href="https://www.up.pt/fcup/pt/" target="_blank">Faculty of Sciences, University of Porto</a> (Rua do Campo Alegre 4169-007 Porto).
 
 <div class="google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.2089409022246!2d-8.63918422329577!3d41.15179191057472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24650cf885bb99%3A0x4ec79b6823f7fb47!2sFaculdade%20de%20Ci%C3%AAncias%20da%20Universidade%20do%20Porto!5e0!3m2!1sen!2snl!4v1732283184266!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -123,7 +123,7 @@ For any questions, you can email the organizers:
 <input type="checkbox" name="accordion-1" id="cb7">
 <label for="cb7" class="tab__label">Can I leave the event site?</label>
     <div class="tab__content">
-        <p>You can spend the entire event at the Department of Physics, but you don’t need to. You are expected to work most of the time at the event site, and there will be dedicated rooms where you can work together with your team. However, you are free to wonder wherever you want during the competition (including going home).
+        <p>You can spend the entire event at the Department of Physics and Astronomy, but you don’t need to. You are expected to work most of the time at the event site, and there will be dedicated rooms where you can work together with your team. However, you are free to wonder wherever you want during the competition (including going home).
         </p>
     </div>
 </div>
