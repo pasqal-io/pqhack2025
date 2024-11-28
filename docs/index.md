@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a veteran quantum physicist or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
+PQHack is an hackathon aimed at the quantum computing student community in Portugal. Whether you are already studying quantum physics or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
 The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the 
 **<a href="https://www.up.pt/portal/en/" target="_blank">University of Porto</a>** 
@@ -27,7 +27,7 @@ The registration deadline is **January 15**.
 
 ## Prerequisites and guidelines
 
-- The event is open to students from all universities.
+- The event is open to students from all universities (without a PhD degree).
 
 - We expect you to be familiar with programming in Python.
 
@@ -59,9 +59,11 @@ Do you want to gear up for the challenge? Become a member of the Pasqal Communit
 
 For any questions, you can email the organizers:
 
-- Duarte Magano -- [duartemagano@fc.up.pt](mailto:duartemagano@fc.up.pt)
+- Duarte Magano (U. Porto) -- [duartemagano@fc.up.pt](mailto:duartemagano@fc.up.pt)
 
-- João Moutinho -- [joao.moutinho@pasqal.com](mailto:joao.moutinho@pasqal.com)
+- João Moutinho (Pasqal) -- [joao.moutinho@pasqal.com](mailto:joao.moutinho@pasqal.com)
+
+- Sagar Pratapsi (U. Coimbra) -- [spratapsi@pqhack.org](mailto:spratapsi@pqhack.org)
 
 <br>
 # FAQs
@@ -71,7 +73,7 @@ For any questions, you can email the organizers:
 <input type="checkbox" name="accordion-1" id="cb1">
 <label for="cb1" class="tab__label">What can I win?</label>
     <div class="tab__content">
-        <p>The prize pool for this competition is 1500 EUR, which will be split between the winners. The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.</p>
+        <p>The prize pool for this competition is 1.500 EUR, which will be split between the winners. The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.</p>
     </div>
 </div>
 
