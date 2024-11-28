@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PQHack is an hackathon aimed at the quantum computing student community in Portugal. Whether you are already studying quantum physics or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
+PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a quantum physics student or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
 The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the 
 **<a href="https://www.up.pt/portal/en/" target="_blank">University of Porto</a>** 
@@ -81,7 +81,7 @@ For any questions, you can email the organizers:
 <input type="checkbox" name="accordion-1" id="cb2">
 <label for="cb2" class="tab__label">Can I join?</label>
     <div class="tab__content">
-        <p>The event is aimed at university students. You should at least be enrolled or have completed a Bachelor's degree in a relevant field (Math, Computer Science, Physics, Engineering) and should not have defended PhD degree by January 15 (the closing date for the registration).</p>
+        <p>The event is aimed at university students. You should at least be enrolled or have completed a Bachelor's degree in a relevant field (Math, Computer Science, Physics, Engineering, etc.) and should not have defended your PhD degree by January 15 (the closing date for the registration).</p>
     </div>
 </div>
 
