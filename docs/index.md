@@ -57,13 +57,13 @@ Do you want to gear up for the challenge? Become a member of the Pasqal Communit
 
 # Contacts
 
-For any questions, you can email the organizers:
+For any questions, you can contact [info@pqhack.org](mailto:info@pqhack.org), or the organizers:
 
 - Duarte Magano (U. Porto) -- [duartemagano@fc.up.pt](mailto:duartemagano@fc.up.pt)
 
 - João Moutinho (Pasqal) -- [joao.moutinho@pasqal.com](mailto:joao.moutinho@pasqal.com)
 
-- Sagar Pratapsi (U. Coimbra) -- [spratapsi@pqhack.org](mailto:spratapsi@pqhack.org)
+- Sagar Pratapsi (U. Coimbra) -- [spratapsi@uc.pt](mailto:spratapsi@uc.pt)
 
 <br>
 # FAQs
