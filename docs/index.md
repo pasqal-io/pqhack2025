@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations. If new slots become available, we will reopen the registration form on the 13th of January.**
+
 PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a quantum physics student or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
 The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the 
@@ -223,8 +225,8 @@ No. The juri's decision is final and cannot be contested.
 The awards will be given according to the juri's evaluation.
 The juri reserves the right to alter or deny the prize in the event of a disqualification. -->
 
-<br>
+<!-- <br>
 <div class="highlight">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfVNrAJ_3ZcU2-JxqTIaXtwJ5am1vkXtV0TA4MGg5Ze-guR-w/viewform?usp=sf_link" target="_blank" class="btn btn-large">What are you waiting for? Apply now!</a>
 </div>
-<br>
+<br> -->
