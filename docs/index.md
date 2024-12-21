@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations. If new slots become available, we will reopen the registration form on the 13th of January.**
+**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations. Acceptance emails have been sent, so if you registered and did not receive one, get in touch with us by email. If new slots become available, we will reopen the registration form on the 13th of January.**
 
 PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a quantum physics student or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
