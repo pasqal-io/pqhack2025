@@ -14,7 +14,7 @@ in collaboration with
 
 In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
 
-PQHack is officially part of the **<a href="https://quantum2025.org/" target="_blank">International Year of Quantum Science and Technology</a>** celebrations, and integrated in the **<a href="https://iqc25.org/" target="_blank">International Quantum Circuit</a>**, an international collaboration between hackathons culminating in QuantathonV2, a circuit championship hackathon in Columbia, South Carolina in the Fall of 2025.
+PQHack is officially part of the **<a href="https://quantum2025.org/" target="_blank">International Year of Quantum Science and Technology</a>** celebrations, organized in Portugal by **<a href="https://fisica-materia-condensada.spf.pt/ctq" target="_blank">Núcleo CiTeQ</a>**. Furtheremore, PQHack is integrated in the **<a href="https://iqc25.org/" target="_blank">International Quantum Circuit</a>**, an international collaboration between hackathons culminating in QuantathonV2, a circuit championship hackathon in Columbia, South Carolina in the Fall of 2025.
 
 
 ## When and where?
