@@ -44,21 +44,6 @@ body {
   }
 }
 
-.up_logo {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  width: 10%;
-  padding-left: 10%;
-  padding-right: 10%;
-
-  @media (max-width: 1200px){
-    width: 26%;
-  }
-  @media (max-width: 600px){
-    width: 36%;
-  }
-}
-
 .pqhack_logo {
   padding-top: 40px;
   padding-bottom: 30px;
@@ -70,12 +55,27 @@ body {
   }
 }
 
+.up_logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 10%;
+  padding-left: 3%;
+  padding-right: 3%;
+
+  @media (max-width: 1200px){
+    width: 26%;
+  }
+  @media (max-width: 600px){
+    width: 36%;
+  }
+}
+
 .pasqal_logo {
   padding-top: 20px;
   padding-bottom: 20px;
   width: 11%;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
 
   @media (max-width: 1200px){
     width: 28%;
@@ -89,8 +89,24 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   width: 12%;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 3%;
+  padding-right: 3%;
+
+  @media (max-width: 1200px){
+    width: 30%;
+  }
+  @media (max-width: 600px){
+    width: 40%;
+  }
+}
+
+
+.iyq_logo {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 12%;
+  padding-left: 3%;
+  padding-right: 3%;
 
   @media (max-width: 1200px){
     width: 30%;

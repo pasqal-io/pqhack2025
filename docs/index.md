@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations. Acceptance emails have been sent, so if you registered and did not receive one, get in touch with us by email. If new slots become available, we will reopen the registration form on the 13th of January.**
+**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations.**
 
 PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a quantum physics student or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
@@ -14,8 +14,8 @@ in collaboration with
 
 In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
 
-Don't wait too long - there is a limit of 40 participants.
-The registration deadline is **January 15**.
+PQHack is officially part of the **<a href="https://quantum2025.org/" target="_blank">International Year of Quantum Science and Technology</a>** celebrations, and integrated in the **<a href="https://iqc25.org/" target="_blank">International Quantum Circuit</a>**, an international collaboration between hackathons culminating in QuantathonV2, a circuit championship hackathon in Columbia, South Carolina in the Fall of 2025.
+
 
 ## When and where?
 
@@ -75,7 +75,9 @@ For any questions, you can contact [info@pqhack.org](mailto:info@pqhack.org), or
 <input type="checkbox" name="accordion-1" id="cb1">
 <label for="cb1" class="tab__label">What can I win?</label>
     <div class="tab__content">
-        <p>The prize pool for this competition is 1.500 EUR, which will be split between the winners. The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.</p>
+        <p>The prize pool for this competition is 1.500 EUR, which will be split between the winners. The winners will be decided by our juri, composed of quantum computing researchers working in academia and industry.
+        
+        The winning team will also be automatically granted access to participate in QuantathonV2, an in-person event in Columbia, South Carolina.</p>
     </div>
 </div>
 
