@@ -2,19 +2,55 @@
 layout: default
 ---
 
-**Thank you for your interest in PQHack! We have now reached full capacity, and closed the registrations.**
+<div class="highlight">
+    PQHack 2025 was a success! Thank you to all participants.
+</div>
+
+It was an intense weekend, with 39 participants spread over 12 teams competing to solve a set of quantum computing coding challenges proposed by our team of experts. With only twenty four hours, the essential ingredients were coffee, pizza, and lots of determination.
+
+Congratulations to all the teams! We were truly impressed with the effort you put in, and how much you learned. 
+
+A special congratulations to the winners for their distinguished contributions:
+
+- **1st Place (700 EUR) -- Team SZS:** Carlos Felgueiras, David Scarin, Lucas Almeida.
+
+- **2nd Place (500 EUR) -- Team Quantum Shemulation:** Alexandra Ramôa, Ana Neri, Bruna Salgado, Sara Franco.
+
+- **3rd Place (300 EUR) -- Team Entangled Minds:** Diogo Ramos, Gonçalo Sousa, Magda Rodrigues, Rodrigo Aarão.
+
+- **Honorable Mention -- Team Los Quantums:** Maria Moita, Pedro Pedrosa, Rafael Cavaco.
+
+Thank you again, and see you next time,
+
+The PQHack Team.
+
+<div class="grid-container">
+  <div class="grid-item">
+    <img src="assets/images/participantes1.jpg" alt="Photo 1">
+  </div>
+  <div class="grid-item">
+    <img src="assets/images/participantes2.jpg" alt="Photo 2">
+  </div>
+  <div class="grid-item">
+    <img src="assets/images/comida.jpg" alt="Photo 3">
+  </div>
+  <div class="grid-item">
+    <img src="assets/images/final_photo.jpg" alt="Photo 4">
+  </div>
+</div>
+
+<br>
+<hr>
 
 PQHack is an hackathon aimed at the quantum computing community in Portugal. Whether you are a quantum physics student or a coding enthusiast curious about quantum computers, it is a unique event to learn about the exciting possibilities offered by the quantum world!
 
-The 2025 edition will be an in-person event on the **8th and 9th of February**, hosted by the 
+The 2025 edition was an in-person event on the **8th and 9th of February**, hosted by the 
 **<a href="https://www.up.pt/portal/en/" target="_blank">University of Porto</a>** 
 in collaboration with 
 **<a href="https://www.pasqal.com/" target="_blank">Pasqal</a>** and the 
 **<a href="https://www.uc.pt/en/" target="_blank">University of Coimbra</a>**.
 
-In this innovative event, you will compete to solve a set of **quantum computing coding challenges** proposed by our team of experts. But you have to be quick! You will only have **twenty four hours** to deliver your solution. To be successful, you will need to collaborate in a team.
-
-PQHack is officially part of the **<a href="https://quantum2025.org/" target="_blank">International Year of Quantum Science and Technology</a>** celebrations, organized in Portugal by **<a href="https://fisica-materia-condensada.spf.pt/ctq" target="_blank">Núcleo CiTeQ</a>**. Furtheremore, PQHack is integrated in the **<a href="https://iqc25.org/" target="_blank">International Quantum Circuit</a>**, an international collaboration between hackathons culminating in QuantathonV2, a circuit championship hackathon in Columbia, South Carolina in the Fall of 2025.
+PQHack was officially part of the **<a href="https://quantum2025.org/" target="_blank">International Year of Quantum Science and Technology</a>** celebrations, organized in Portugal by **<a href="https://fisica-materia-condensada.spf.pt/ctq" target="_blank">Núcleo CiTeQ</a>**. Furtheremore, PQHack is integrated in the **<a href="https://iqc25.org/" target="_blank">International Quantum Circuit</a>**, an international collaboration between hackathons culminating in QuantathonV2, a circuit championship hackathon in Columbia, South Carolina in the Fall of 2025.
 
 
 ## When and where?
