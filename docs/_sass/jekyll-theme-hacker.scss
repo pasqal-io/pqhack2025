@@ -116,6 +116,33 @@ body {
   }
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 100%; // Changed from max-width to width
+  margin-left: auto;
+  gap: 10px;
+  margin-right: auto;
+
+  @media screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+
+  .grid-item {
+    aspect-ratio: 1.5;
+    width: 100%;
+    max-width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: fill;
+    }
+  }
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
@@ -345,7 +372,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed $pasqal-mint-green;
   color: $pasqal-mint-green;
 }
 
